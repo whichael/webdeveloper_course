@@ -1,0 +1,38 @@
+/*universal Selector*/
+* {
+    background-color:rgb(219, 192, 151);
+}
+
+/*Id Selector*/
+#red {
+	Color:red
+}
+
+#blue {
+	Color:blue
+}
+
+#orange {
+	Color:orange
+}
+
+#green {
+	Color:green
+}
+
+#yellow {
+	Color:yellow
+}
+
+
+/*Class Selector*/
+.color-title {
+	font-weight: normal;
+}
+
+/*element selector*/
+img{
+    height: 200px;
+    width: 200px
+}
+
