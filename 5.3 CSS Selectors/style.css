@@ -21,6 +21,28 @@ li[value="4"] {
   color: blue;
 }
 
-*{
+h3{
+  text-align: left;
+}
+
+/*used this instead of the universal"*" so i could show properly on my webpage*/
+
+h1{
   text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+ol{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+h4{
+  font-weight: normal;
 }
